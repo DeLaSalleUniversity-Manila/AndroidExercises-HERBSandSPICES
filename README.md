@@ -1,4 +1,7 @@
-My Android Portfolio
+#My Android Portfolio
+
+Android Exercises - HERBSandSPICES
+
 1.	**Hello World App Demo** (https://github.com/DeLaSalleUniversity-Manila/androidhelloworldapp-HERBSandSPICES)
 
 2.	**Prime Number Game** (https://github.com/DeLaSalleUniversity-Manila/primenumbergame-HERBSandSPICES)
