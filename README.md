@@ -1,6 +1,4 @@
-#My Android Portfolio
-
-Android Exercises - HERBSandSPICES
+My Android Portfolio
 
 1.	**Hello World App Demo** (https://github.com/DeLaSalleUniversity-Manila/androidhelloworldapp-HERBSandSPICES)
 
@@ -22,14 +20,15 @@ Android Exercises - HERBSandSPICES
 8.	**Email App** - Grid Layout (https://github.com/DeLaSalleUniversity-Manila/emailappgridlayout-HERBSandSPICES)
 
 
-9.	**Text-to-Speech App** (https://github.com/DeLaSalleUniversity-Manila/FreshieApp-SeanWyndell_SeanHerbie)
+9.	**Text-to-Speech App** (https://github.com/DeLaSalleUniversity-Manila/Freshie-SeanWyndellQue-SeanHerbieChua)
+
 
 10.	**MyMusic App** - Service (https://github.com/DeLaSalleUniversity-Manila/mymusicapp---HERBS-andSPICES)
 
 
-11.	**Splash Activity** (https://github.com/DeLaSalleUniversity-Manila/FreshieApp-SeanWyndell_SeanHerbie)
+11.	**Splash Activity** (https://github.com/DeLaSalleUniversity-Manila/Freshie-SeanWyndellQue-SeanHerbieChua)
 
-12.	**Menu Activity** (https://github.com/DeLaSalleUniversity-Manila/FreshieApp-SeanWyndell_SeanHerbie)
+12.	**Menu Activity** (https://github.com/DeLaSalleUniversity-Manila/Freshie-SeanWyndellQue-SeanHerbieChua)
 
 
 13.	**Help Activity** 
@@ -63,10 +62,13 @@ Android Exercises - HERBSandSPICES
 
 25.	**WorkoutFragmentDemo** 
 
-26.	**Grocery App** (https://github.com/DeLaSalleUniversity-Manila/FreshieApp-SeanWyndell_SeanHerbie)
+26.	**Grocery App** (https://github.com/DeLaSalleUniversity-Manila/Freshie-SeanWyndellQue-SeanHerbieChua)
 
 
-27.	**Breast Cancer Awareness App** (https://github.com/DeLaSalleUniversity-Manila/FreshieApp-SeanWyndell_SeanHerbie)
+
+
+27.	**Breast Cancer Awareness App** (https://github.com/DeLaSalleUniversity-Manila/Freshie-SeanWyndellQue-SeanHerbieChua)
+
 
 28.	**OpenCV 3.0 Camera Preview Example** 
 
@@ -213,6 +215,7 @@ Android Exercises - HERBSandSPICES
 
 
 86.	**Tesseract OCR Demo** 
+
 
 Not on the List:
 
