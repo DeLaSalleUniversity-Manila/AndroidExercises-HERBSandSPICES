@@ -2,7 +2,9 @@
 
 #Final Project
 Github: https://github.com/DeLaSalleUniversity-Manila/Freshie-SeanWyndellQue-SeanHerbieChua
+
 Google Play: https://play.google.com/store/apps/details?id=wynsean.freshie
+
 #Android Exercises
 
 1.	**Hello World App Demo** (https://github.com/DeLaSalleUniversity-Manila/androidhelloworldapp-HERBSandSPICES)
