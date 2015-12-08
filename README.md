@@ -1,6 +1,7 @@
-My Android Portfolio
+#My Android Portfolio
 
 1.	**Hello World App Demo** (https://github.com/DeLaSalleUniversity-Manila/androidhelloworldapp-HERBSandSPICES)
+
 
 2.	**Prime Number Game** (https://github.com/DeLaSalleUniversity-Manila/primenumbergame-HERBSandSPICES)
 
@@ -12,7 +13,7 @@ My Android Portfolio
 
 5.	**Linking Android Activities** (https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-HERBSandSPICES)
 
-6.	**WeekDay App using Date Picker Fragment** 
+6.	**WeekDay App using Date Picker Fragment** (https://github.com/DeLaSalleUniversity-Manila/weekdayimproved-HERBSandSPICES)
 
 
 7.	**Stopwatch App** (https://github.com/DeLaSalleUniversity-Manila/Stopwatch---HERBSandSPICES)
@@ -31,7 +32,7 @@ My Android Portfolio
 12.	**Menu Activity** (https://github.com/DeLaSalleUniversity-Manila/Freshie-SeanWyndellQue-SeanHerbieChua)
 
 
-13.	**Help Activity** 
+13.	**Help Activity** (https://github.com/DeLaSalleUniversity-Manila/helpactivitydemo-HERBSandSPICES)
 
 14.	**Green Target** (https://github.com/DeLaSalleUniversity-Manila/greentarget-HERBSandSPICES)
 
@@ -40,19 +41,19 @@ My Android Portfolio
 16.	**Buttons Demo** (https://github.com/DeLaSalleUniversity-Manila/buttonsdemo-HERBSandSPICES)
 
 
-17.	**Star Rating**
+17.	**Star Rating** (https://github.com/DeLaSalleUniversity-Manila/starratingdemo-HERBSandSPICES)
 
-18.	**Google Map Marker for DLSU**
+18.	**Google Map Marker for DLSU** (https://github.com/DeLaSalleUniversity-Manila/googlemapsdemo-HERBSandSPICES)
 
 
-19.	**Screen Slides**
+19.	**Screen Slides**(https://github.com/DeLaSalleUniversity-Manila/screenslidesdemo-HERBSandSPICES)
 
 20.	**ViewPager with Text-to-Speech Demo** 
 
 
-21.	**Play Video**
+21.	**Play Video**(https://github.com/DeLaSalleUniversity-Manila/playvideo-HERBSandSPICES)
 
-22.	**SQLiteDatabase**
+22.	**SQLiteDatabase**(https://github.com/DeLaSalleUniversity-Manila/sqlitedatabaseexercise-HERBSandSPICES)
 
 
 23.	**Mini-database with Text file**
@@ -60,7 +61,7 @@ My Android Portfolio
 24.	**Settings Activity** 
 
 
-25.	**WorkoutFragmentDemo** 
+25.	**WorkoutFragmentDemo** (https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-HERBSandSPICES)
 
 26.	**Grocery App** (https://github.com/DeLaSalleUniversity-Manila/Freshie-SeanWyndellQue-SeanHerbieChua)
 
@@ -220,3 +221,6 @@ My Android Portfolio
 Not on the List:
 
 1.	**Course Adviser** (https://github.com/DeLaSalleUniversity-Manila/courseadviserapp-HERBSandSPICES)
+
+2.	**Speech Recognizer** (https://github.com/DeLaSalleUniversity-Manila/Freshie-SeanWyndellQue-SeanHerbieChua)
+
