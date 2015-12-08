@@ -149,6 +149,8 @@ Google Play: https://play.google.com/store/apps/details?id=wynsean.freshie
 
 52.	**Forkhub** (https://github.com/DeLaSalleUniversity-Manila/forkhub-HERBSandSPICES)
 
+53.	**Image Denoising** (https://github.com/DeLaSalleUniversity-Manila/imagedenoising-HERBSandSPICES)
+
 
 
 
