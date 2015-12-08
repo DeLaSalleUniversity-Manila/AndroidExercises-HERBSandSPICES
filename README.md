@@ -1,5 +1,10 @@
 #My Android Portfolio
 
+#Final Project
+Github: https://github.com/DeLaSalleUniversity-Manila/Freshie-SeanWyndellQue-SeanHerbieChua
+Google Play: https://play.google.com/store/apps/details?id=wynsean.freshie
+#Android Exercises
+
 1.	**Hello World App Demo** (https://github.com/DeLaSalleUniversity-Manila/androidhelloworldapp-HERBSandSPICES)
 
 
@@ -48,174 +53,196 @@
 
 19.	**Screen Slides**(https://github.com/DeLaSalleUniversity-Manila/screenslidesdemo-HERBSandSPICES)
 
-20.	**ViewPager with Text-to-Speech Demo** 
 
 
-21.	**Play Video**(https://github.com/DeLaSalleUniversity-Manila/playvideo-HERBSandSPICES)
+20.	**Play Video**(https://github.com/DeLaSalleUniversity-Manila/playvideo-HERBSandSPICES)
 
-22.	**SQLiteDatabase**(https://github.com/DeLaSalleUniversity-Manila/sqlitedatabaseexercise-HERBSandSPICES)
-
-
-23.	**Mini-database with Text file**
-
-24.	**Settings Activity** 
-
-
-25.	**WorkoutFragmentDemo** (https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-HERBSandSPICES)
-
-26.	**Grocery App** (https://github.com/DeLaSalleUniversity-Manila/Freshie-SeanWyndellQue-SeanHerbieChua)
+21.	**SQLiteDatabase**(https://github.com/DeLaSalleUniversity-Manila/sqlitedatabaseexercise-HERBSandSPICES)
 
 
 
 
-27.	**Breast Cancer Awareness App** (https://github.com/DeLaSalleUniversity-Manila/Freshie-SeanWyndellQue-SeanHerbieChua)
+22.	**WorkoutFragmentDemo** (https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-HERBSandSPICES)
+
+23.	**Grocery App** (https://github.com/DeLaSalleUniversity-Manila/Freshie-SeanWyndellQue-SeanHerbieChua)
 
 
-28.	**OpenCV 3.0 Camera Preview Example** 
 
 
-29.	**OpenCV 3.0 15-Tile Camera Puzzle** 
+24.	**Breast Cancer Awareness App** (https://github.com/DeLaSalleUniversity-Manila/Freshie-SeanWyndellQue-SeanHerbieChua)
 
-30.	**Image Local Binary Pattern** 
 
-31.	**OpenCV 3.0 Mixed-Signal Processing** 
+25.	**OpenCV 3.0 Camera Preview Example** (https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-HERBSandSPICES)
+
+
+26.	**OpenCV 3.0 15-Tile Camera Puzzle** (https://github.com/DeLaSalleUniversity-Manila/opencvtilepuzzledemo-HERBSandSPICES)
+
+27.	**Image Local Binary Pattern** (https://github.com/DeLaSalleUniversity-Manila/imagelocalbinarypattern-HERBSandSPICES)
+
+28.	**OpenCV 3.0 Mixed-Signal Processing** (https://github.com/DeLaSalleUniversity-Manila/opencvmixedsignalprocessing-HERBSandSPICES)
 
  
-32.	**OpenCV 3.0 Face Detection Sample** 
+29.	**OpenCV 3.0 Face Detection Sample** (https://github.com/DeLaSalleUniversity-Manila/opencvmixedsignalprocessing-HERBSandSPICES)
 
-33.	**OpenCV 3.0 Image Manipulations**
-
-
-34.	**Get Current Location and Place a Marker** 
-
-35.	**Get Neighboring Hospitals** 
+30.	**OpenCV 3.0 Image Manipulations**(https://github.com/DeLaSalleUniversity-Manila/opencvimagemanipulations-HERBSandSPICES)
 
 
-36.	**OpenCV 3.0 Color Blob Detection Sample** 
+31.	**OpenCV 3.0 Color Blob Detection Sample** (https://github.com/DeLaSalleUniversity-Manila/colorblobdetection-HERBSandSPICES)
 
-37.	**Android Native Camera Access with Native OpenCV Processing through JNI**
+
+32.	**Android Native Camera Access with Native OpenCV Processing through JNI**(https://github.com/DeLaSalleUniversity-Manila/androidnativecameraaccess-HERBSandSPICES)
 
  
-38.	**Android Camera Bitmap Access through JNI** 
-
-39.	**Cat Face Detection** 
+33.	**Android Camera Bitmap Access through JNI** (https://github.com/DeLaSalleUniversity-Manila/androidcamerabitmapaccess-HERBSandSPICES)
 
 
-40.	**QR and Bar Code Reader** 
-
-41.	**OpenCV 3.0 Camera Control** 
+34.	**Cat Face Detection** (https://github.com/DeLaSalleUniversity-Manila/catfacedetection-HERBSandSPICES)
 
 
-42.	**OpenCV 3.0 Image Manipulations with Action Bar (using AppCompatActivity)** 
 
-43.	**FAST Keypoints**
+35.	**Hello JNI Sample** (https://github.com/DeLaSalleUniversity-Manila/hellojni-HERBSandSPICES)
+
+
+
+36.	**Sensor (Accelerometer) graph with OpenGL** (https://github.com/DeLaSalleUniversity-Manila/accelerometerwithopengl-HERBSandSPICES)
+
+
+37.	**Hello GL2** (https://github.com/DeLaSalleUniversity-Manila/hellogl2-HERBSandSPICES)
+
+
+38.	**Bitmap Plasma** (https://github.com/DeLaSalleUniversity-Manila/bitmap-plasma-HERBSandSPICES)
+
+
+39.	**Teapot Render** (https://github.com/DeLaSalleUniversity-Manila/teapotrender-HERBSandSPICES)
+
+40.	**2048**(https://github.com/DeLaSalleUniversity-Manila/2048-HERBSandSPICES)
+
+
+
 
  
-44.	**AKAZE Keypoints** 
+41.	**AKAZE Keypoints** (https://github.com/DeLaSalleUniversity-Manila/akazefeatures-HERBSandSPICES)
 
-45.	**Colored Gray** 
-
-
-46.	**Twin Camera Effect** 
-
-47.	**Range Seekbar Demo** 
+42.	**Colored Gray** (https://github.com/DeLaSalleUniversity-Manila/coloredgray-HERBSandSPICES)
 
 
-48.	**Frame Difference (Motion Detect)** 
+43.	**Twin Camera Effect** (https://github.com/DeLaSalleUniversity-Manila/twincameraeffect-HERBSandSPICES)
 
-49.	**Pedestrian Detection**
+44.	**Range Seekbar Demo** (https://github.com/DeLaSalleUniversity-Manila/rangebardemo-HERBSandSPICES)
 
-50.	**Voronoi Effects**
+
+45.	**Frame Difference (Motion Detect)** (https://github.com/DeLaSalleUniversity-Manila/framedifferencesample-HERBSandSPICES)
+
+46.	**Pedestrian Detection** (https://github.com/DeLaSalleUniversity-Manila/pedestriandetection-HERBSandSPICES)
+
+47.	**OpenCV 3.0 Android Camera Calibration** (https://github.com/DeLaSalleUniversity-Manila/opencv3-cameracontrol-HERBSandSPICES)
+
+48.	**OpenCV 3.0 Camera Control**(https://github.com/DeLaSalleUniversity-Manila/opencv3-cameracontrol-HERBSandSPICES)
+
+
+49.	**Voronoi Effects**
  
-51.	**FANN Library in Android** 
+50.	**FANN Library in Android** 
 
 
-52.	**Hello JNI Sample** (https://github.com/DeLaSalleUniversity-Manila/hellojni-HERBSandSPICES)
 
-53.	**Sensor (Accelerometer) graph with OpenGL** (https://github.com/DeLaSalleUniversity-Manila/accelerometerwithopengl-HERBSandSPICES)
-
-
-54.	**Hello GL2** (https://github.com/DeLaSalleUniversity-Manila/hellogl2-HERBSandSPICES)
-
-55.	**Bitmap Plasma** (https://github.com/DeLaSalleUniversity-Manila/bitmap-plasma-HERBSandSPICES)
+51.	**Face Detection in OpenCV with Gradle Experimental Plugin** 
 
 
-56.	**Teapot Render** (https://github.com/DeLaSalleUniversity-Manila/teapotrender-HERBSandSPICES)
+52.	**Canny Edge OpenCV with Android Experimental Gradle Plugin** 
 
-57.	**Face Detection in OpenCV with Gradle Experimental Plugin** 
-
-
-58.	**Canny Edge OpenCV with Android Experimental Gradle Plugin** 
-
-59.	**Color Reduction** 
+53.	**Color Reduction** 
 
 
-60.	**ORB Features OpenCV with Android Experimental Gradle Plugin** 
+54.	**ORB Features OpenCV with Android Experimental Gradle Plugin** 
 
-61.	**BRISK Features OpenCV with Android Experimental Gradle Plugin** 
-
-
-62.	**AKAZE Features OpenCV with Android Experimental Gradle Plugin** 
-
-63.	**OpenCV 3.0 Android Camera Calibration** 
+55.	**BRISK Features OpenCV with Android Experimental Gradle Plugin** 
 
 
-64.	**Filter2D** 
-
-65.	**ContoursDemo** 
+56.	**AKAZE Features OpenCV with Android Experimental Gradle Plugin** 
 
 
-66.	**Circle Detection**
 
-67.	**Playing with Transparency** 
+57.	**Filter2D** 
 
-
-68.	**Optical Flow** 
-
-69.	**ORB Flow** 
+58.	**ContoursDemo** 
 
 
-70.	**FAST Flow** 
+59.	**Circle Detection**
 
-71.	**AKAZE Flow** 
-
-
-72.	**Otsu Thresholding**
-
-73.	**Skin Detector** 
+60.	**Playing with Transparency** 
 
 
-74.	**Image Denoising** 
+61.	**Optical Flow** 
 
-75.	**LBPYUV** 
-
-
-76.	**Basic Thresholding**
-
-77.	**Scharr Gradient**
+62.	**ORB Flow** 
 
 
-78.	**YUV Extraction** 
+63.	**FAST Flow** 
 
-79.	**Native Bitmap Access** 
-
-
-80.	**Image Histogram** 
-
-81.	**Adaptive Thresholding** 
+64.	**AKAZE Flow** 
 
 
-82.	**DISMATH Refresher App** 
+65.	**Otsu Thresholding**
 
-83.	**Full Body Detection** 
+66.	**Skin Detector** 
 
 
-84.	**Histogram of Gradients (HOG) Features**
+67.	**Image Denoising** 
+
+68.	**LBPYUV** 
+
+
+69.	**Basic Thresholding**
+
+70.	**Scharr Gradient**
+
+
+71.	**YUV Extraction** 
+
+72.	**Native Bitmap Access** 
+
+
+73.	**Image Histogram** 
+
+74.	**Adaptive Thresholding** 
+
+
+75.	**DISMATH Refresher App** 
+
+76.	**Full Body Detection** 
+
+
+77.	**Histogram of Gradients (HOG) Features**
  
-85.	**Consensus-based Matching and Tracking in Android (CMT Tracker)** 
+78.	**Consensus-based Matching and Tracking in Android (CMT Tracker)** 
 
 
-86.	**Tesseract OCR Demo** 
+79.	**Tesseract OCR Demo** 
+80.	**ViewPager with Text-to-Speech Demo** 
+
+
+81.	**Mini-database with Text file**
+
+82.	**Settings Activity** 
+
+
+83.	**Get Current Location and Place a Marker** 
+
+84.	**Get Neighboring Hospitals** 
+
+
+
+85.	**QR and Bar Code Reader** 
+
+86.	
+
+
+87.	**OpenCV 3.0 Image Manipulations with Action Bar (using AppCompatActivity)** 
+
+88.	**FAST Keypoints**
+89.	
+
 
 
 Not on the List:
