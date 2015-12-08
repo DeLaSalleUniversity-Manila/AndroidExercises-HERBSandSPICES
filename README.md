@@ -145,6 +145,11 @@ Google Play: https://play.google.com/store/apps/details?id=wynsean.freshie
 
 50.	**Greenwall** (https://github.com/DeLaSalleUniversity-Manila/greenwall-HERBSandSPICES)
 
+51.	**Super Mario** (https://github.com/DeLaSalleUniversity-Manila/supermario-HERBSandSPICES)
+
+52.	**Forkhub** (https://github.com/DeLaSalleUniversity-Manila/forkhub-HERBSandSPICES)
+
+
 
 
 Not on the List:
